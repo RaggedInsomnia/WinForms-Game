@@ -1,0 +1,10 @@
+C:\Users\SMC\Desktop\Учеба\2 курс\C#\Kursach\Kursach\bin\Debug\Kursach.exe.config
+C:\Users\SMC\Desktop\Учеба\2 курс\C#\Kursach\Kursach\bin\Debug\Kursach.exe
+C:\Users\SMC\Desktop\Учеба\2 курс\C#\Kursach\Kursach\bin\Debug\Kursach.pdb
+C:\Users\SMC\Desktop\Учеба\2 курс\C#\Kursach\Kursach\obj\Debug\Kursach.csproj.AssemblyReference.cache
+C:\Users\SMC\Desktop\Учеба\2 курс\C#\Kursach\Kursach\obj\Debug\Kursach.Form1.resources
+C:\Users\SMC\Desktop\Учеба\2 курс\C#\Kursach\Kursach\obj\Debug\Kursach.Properties.Resources.resources
+C:\Users\SMC\Desktop\Учеба\2 курс\C#\Kursach\Kursach\obj\Debug\Kursach.csproj.GenerateResource.cache
+C:\Users\SMC\Desktop\Учеба\2 курс\C#\Kursach\Kursach\obj\Debug\Kursach.csproj.CoreCompileInputs.cache
+C:\Users\SMC\Desktop\Учеба\2 курс\C#\Kursach\Kursach\obj\Debug\Kursach.exe
+C:\Users\SMC\Desktop\Учеба\2 курс\C#\Kursach\Kursach\obj\Debug\Kursach.pdb
